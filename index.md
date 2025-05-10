@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Meus Artigos"
+title: "home"
 ---
 
 # 👋 Bem-vindo(a) ao meu acervo de artigos técnicos
@@ -28,8 +28,5 @@ Sou um entusiasta e profissional de tecnologia que acredita no poder do comparti
 
 ---
 
-## 📑 Últimos Artigos
+## 📑 Artigos
 
-<!--> Os artigos abaixo são carregados automaticamente do diretório `_posts`:-->
-
-<!-- Jekyll com tema `minima` gera a lista automaticamente -->
