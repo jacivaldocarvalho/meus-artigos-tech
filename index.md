@@ -1,6 +1,6 @@
 ---
 layout: home
-#title: "Meus Artigos"
+title: "Meus Artigos"
 ---
 
 # 👋 Bem-vindo(a) ao meu acervo de artigos técnicos
@@ -24,8 +24,7 @@ Este site reúne artigos que escrevi sobre temas fundamentais e avançados em **
 
 Sou um entusiasta e profissional de tecnologia que acredita no poder do compartilhamento de conhecimento. Este site é uma forma de registrar aprendizados e trocar experiências com a comunidade.
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/jacivaldocarvalho/)
-
+[🔗 LinkedIn](https://www.linkedin.com/in/jacivaldocarvalho/)
 
 ---
 
