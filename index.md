@@ -1,13 +1,12 @@
 ---
 layout: home
-title: "home"
+title: "Olá, "
 ---
 
 # 👋 Bem-vindo(a) ao meu acervo de artigos técnicos
 
 Este site reúne artigos que escrevi sobre temas fundamentais e avançados em **Tecnologia da Informação** e **Telecomunicações**. Todos os textos foram escritos em Markdown e organizados neste site com o intuito de compartilhar conhecimento.
 
----
 
 ## 🧠 Temas abordados
 
@@ -18,7 +17,6 @@ Este site reúne artigos que escrevi sobre temas fundamentais e avançados em **
 - Segurança e Monitoramento
 - Ferramentas DevOps
 
----
 
 ## 🙋 Sobre mim
 
@@ -26,7 +24,6 @@ Sou um entusiasta e profissional de tecnologia que acredita no poder do comparti
 
 [🔗 LinkedIn](https://www.linkedin.com/in/jacivaldocarvalho/)
 
----
 
 ## 📑 Artigos
 
