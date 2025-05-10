@@ -1,11 +1,11 @@
-# 👋 Bem-vindo(a) ao meu acervo técnico
+# 👋 Bem-vindo(a) ao meu acervo de artigos técnicos
 
 Este site reúne artigos que escrevi sobre temas fundamentais e avançados em **Tecnologia da Informação** e **Telecomunicações**. Todos os textos foram escritos em Markdown e organizados neste site com o intuito de compartilhar conhecimento.
 
 
 ## 📑 Lista de Artigos
 
-- [☁️ Computação em Nuvem: Definições, vantagens e impactos](./_posts/00-artigo-cloud-computer.md)
+- [☁️ Computação em Nuvem: Definições, vantagens e impactos](_posts/00-artigo-cloud-computer.md)
 
 
 
