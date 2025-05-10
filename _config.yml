@@ -1,5 +1,7 @@
 theme: minima
 title: "📚 Meus Artigos Tech"
-description: "Artigos sobre TI, Telecom, IA e cloud."
+description: "Insights sobre TI, Telecom, Cloud, IA e inovação tecnológica."
 author: Jacivaldo Carvalho
 show_downloads: false
+
+plugins: []  # garanta que o plugin jekyll-feed não esteja listado

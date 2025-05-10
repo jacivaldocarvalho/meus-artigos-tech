@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Olá, "
+title: ""
 ---
 
 # 👋 Bem-vindo(a) ao meu acervo de artigos técnicos
