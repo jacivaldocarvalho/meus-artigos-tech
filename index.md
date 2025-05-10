@@ -1,8 +1,3 @@
----
-layout: default
-title: "Início"
----
-
 # 👋 Bem-vindo(a) ao meu acervo técnico
 
 Este site reúne artigos que escrevi sobre temas fundamentais e avançados em **Tecnologia da Informação** e **Telecomunicações**. Todos os textos foram escritos em Markdown e organizados neste site com o intuito de compartilhar conhecimento.
@@ -10,9 +5,7 @@ Este site reúne artigos que escrevi sobre temas fundamentais e avançados em **
 
 ## 📑 Lista de Artigos
 
-- [📡 Introdução ao Modelo OSI](./artigos/introducao-modelo-osi.md)
-- [🖥️ Configuração básica de um servidor Linux](./artigos/configuracao-servidor-linux.md)
-- [☁️ O que é IaaS, PaaS e SaaS?](./artigos/iaas-paas-saas.md)
+- [☁️ Computação em Nuvem: Definições, vantagens e impactos](./_posts/00-artigo-cloud-computer.md)
 
 
 

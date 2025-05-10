@@ -1,15 +1,14 @@
 #!/bin/bash
 
+# Autor: Jacivaldo Carvalho
+# Data: 10-05-2025
+
 # Verifica se o nome do commit foi fornecido como argumento
 if [ -z "$1" ]; then
   echo "Por favor, forneça a mensagem de commit."
   exit 1
 fi
 
-# Caminho para o diretório do repositório Git
-# Caso o repositório esteja em outra pasta, você pode especificar o caminho absoluto
-# ou navegar para o repositório antes de executar o script
-#cd /caminho/para/seu/repo
 
 # Adiciona todas as mudanças ao índice do Git
 git add .
