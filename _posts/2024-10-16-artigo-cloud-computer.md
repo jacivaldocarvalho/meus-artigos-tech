@@ -7,11 +7,6 @@ categories: cloud ti
 
 # Computação em Nuvem: Definições, vantagens e impactos
 
-**Autor:** Jacivaldo Carvalho
-**Data:** 16 de outubro de 2024
-
----
-
 ## Introdução
 
 Nos últimos anos, a computação em nuvem se tornou um fragmento essencial do cenário tecnológico, revolucionando a forma como empresas e indivíduos gerenciam dados e aplicações. Este artigo tem o objetivo de elucidar o conceito de computação em nuvem, apresentando suas definições, vantagens e impactos.
