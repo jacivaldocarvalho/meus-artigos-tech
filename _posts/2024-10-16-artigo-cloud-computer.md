@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Computação em Nuvem: Definições, vantagens e impactos"
+date: 2024-10-16
+categories: cloud ti
+---
+
 # Computação em Nuvem: Definições, vantagens e impactos
 
 **Autor:** Jacivaldo Carvalho
