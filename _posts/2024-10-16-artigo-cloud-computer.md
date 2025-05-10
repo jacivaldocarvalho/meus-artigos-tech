@@ -5,7 +5,44 @@ date: 2024-10-16
 categories: cloud ti
 ---
 
-# Computação em Nuvem: Definições, vantagens e impactos
+## Índice
+
+- [Índice](#índice)
+- [Introdução](#introdução)
+- [O Que é Computação em Nuvem?](#o-que-é-computação-em-nuvem)
+  - [Tipos de Computação em Nuvem](#tipos-de-computação-em-nuvem)
+- [Vantagens da Computação em Nuvem](#vantagens-da-computação-em-nuvem)
+  - [1. Escalabilidade](#1-escalabilidade)
+  - [2. Custo-efetividade](#2-custo-efetividade)
+  - [3. Acesso Remoto](#3-acesso-remoto)
+  - [4. Segurança e Backup de Dados](#4-segurança-e-backup-de-dados)
+  - [5. Atualizações Automáticas](#5-atualizações-automáticas)
+- [Como a Computação em Nuvem Está Transformando Negócios](#como-a-computação-em-nuvem-está-transformando-negócios)
+  - [1. Inovação Acelerada](#1-inovação-acelerada)
+  - [2. Melhoria na Experiência do Cliente](#2-melhoria-na-experiência-do-cliente)
+  - [3. Sustentabilidade](#3-sustentabilidade)
+  - [4. Integração de Tecnologias Emergentes](#4-integração-de-tecnologias-emergentes)
+- [Desafios da Computação em Nuvem](#desafios-da-computação-em-nuvem)
+  - [1. Segurança de Dados](#1-segurança-de-dados)
+  - [2. Conformidade Regulamentar](#2-conformidade-regulamentar)
+- [Impacto da Computação em Nuvem no Mercado de Trabalho](#impacto-da-computação-em-nuvem-no-mercado-de-trabalho)
+  - [1. Novas Oportunidades de Emprego](#1-novas-oportunidades-de-emprego)
+  - [2. Mudança de Competências Necessárias](#2-mudança-de-competências-necessárias)
+  - [3. Trabalho Remoto e Flexível](#3-trabalho-remoto-e-flexível)
+  - [4. Colaboração e Integração de Equipes](#4-colaboração-e-integração-de-equipes)
+- [Casos de Uso da Computação em Nuvem](#casos-de-uso-da-computação-em-nuvem)
+  - [1. Armazenamento de Dados](#1-armazenamento-de-dados)
+  - [2. Desenvolvimento de Software](#2-desenvolvimento-de-software)
+  - [3. Análise de Dados](#3-análise-de-dados)
+  - [4. Colaboração](#4-colaboração)
+- [Futuro da Computação em Nuvem](#futuro-da-computação-em-nuvem)
+  - [1. Adoção de Inteligência Artificial](#1-adoção-de-inteligência-artificial)
+  - [2. Aumento da Nuvem Híbrida](#2-aumento-da-nuvem-híbrida)
+  - [3. Edge Computing](#3-edge-computing)
+  - [4. Maior Foco em Sustentabilidade](#4-maior-foco-em-sustentabilidade)
+- [Considerações finais](#considerações-finais)
+- [Referências Bibliográficas](#referências-bibliográficas)
+
 
 ## Introdução
 

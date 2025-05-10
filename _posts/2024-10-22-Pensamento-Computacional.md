@@ -5,7 +5,15 @@ date: 2024-10-22
 categories: ti
 ---
 
-# Pensamento Computacional: Uma Abordagem Chave na Era Digital
+## Índice
+
+- [Índice](#índice)
+- [História do Pensamento Computacional](#história-do-pensamento-computacional)
+- [Definições de Pensamento Computacional](#definições-de-pensamento-computacional)
+- [Exemplos de Pensamento Computacional na atualidade](#exemplos-de-pensamento-computacional-na-atualidade)
+- [Conclusão](#conclusão)
+- [Referências Bibliográficas](#referências-bibliográficas)
+
 
 ## História do Pensamento Computacional
 
